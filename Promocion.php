@@ -9,14 +9,10 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css">
 </head>
-<body>
-    <br>
-    <br>
-    <br>
-    <br>
+<body class="bodypr">
+  
 
-
-    <center><h1>PROMOCIONES DE AUTOS USADOS AUTOFIRE</h1></center>
+    <center><h1 class="aut">PROMOCIONES DE AUTOS USADOS AUTOFIRE</h1></center>
 
 
   <!-- MAIN -->
@@ -24,14 +20,13 @@
 
     <!-- BANNER  -->
     <div id="banner-wrapper">
-      <header>
+      <header class="header-1">
        
 
-          <nav>
-            <a href="#" id="menu-icon">
+          <nav class="nav-icon">
+            <a href="#" class="menu-icon">
               <i class="fa fa-bars"></i>
             </a>
-            
           </nav>
         </div>
       </header>
@@ -55,46 +50,46 @@
         <div class="icon-text-icon">
           <ul class="footer-nav">
             <li>
-              <a href="index.html">AUTOFIRE</a>
+              <a href="index.html" class="footera">AUTOFIRE</a>
             </li>
             <li>
-              <a href="#">AHORA</a>
+              <a href="#" class="footera">AHORA</a>
             </li>
             <li>
-              <a href="#">MAS CERCA </a>
+              <a href="#" class="footera">MAS CERCA </a>
             </li>
             <li>
-              <a href="#">CON NUESTRAS REDES</a>
+              <a href="#" class="footera">CON NUESTRAS REDES</a>
             </li>
             <li>
-              <a href="#">CONTACTANOS</a>
+              <a href="#" class="footera">CONTACTANOS</a>
             </li>
           </ul>
         </div>
         <div class="icon-text-text">
           <ul class="social">
             <li>
-              <a href="mailto:contact@faztweb.com">
+              <a href="mailto:contact@faztweb.com" class="footera">
                 <i class="fa fa-envelope-o"></i>
               </a>
             </li>
             <li>
-              <a href="http://facebook.com/fazttech">
+              <a href="http://facebook.com/fazttech" class="footera">
                 <i class="fa fa-facebook"></i>
               </a>
             </li>
             <li>
-              <a href="http://twitter.com/fazttech">
+              <a href="http://twitter.com/fazttech" class="footera">
                 <i class="fa fa-twitter"></i>
               </a>
             </li>
             <li>
-              <a href="http://youtube.com/fazttech">
+              <a href="http://youtube.com/fazttech" class="footera">
                 <i class="fa fa-youtube"></i>
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="#" class="footera">
                 <i class="fa fa-instagram"></i>
               </a>
             </li>
