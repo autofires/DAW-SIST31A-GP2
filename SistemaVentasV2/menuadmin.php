@@ -79,10 +79,7 @@ if(isset($_REQUEST["cerrar"])){
       <div class="dropdown-content"> 
         <a href="?p=adminusuarios.php">Usuarios</a>         
       </div> 
-  </li> 
-  <li class="dropdown"> 
-    <a href="#news">HERRAMIENTAS</a> 
-  </li> 
+  </li>  
   <li><?php
                     if (isset($_SESSION["usuario"])) {
                         echo "<a href='?cerrar=true'>CERRAR SESION</a>";
